@@ -1,0 +1,50 @@
+*{
+	margin: 5px;
+	font-style: Monospace;
+	color: white;
+	
+}
+
+body{
+
+}
+
+div{
+	border-radius: 30px;
+}
+
+.encabezado{
+	font-family: Courier;
+	font-style: oblique;
+	margin: 20px;
+	background: rgba(0,255,0,0.6);
+	color: black;
+	font-size: 30px;
+	text-align: center;
+}
+
+.infogame{
+	font-size: 20px;
+	text-align: left;
+	background:rgba(138,221,45,0.4);
+	padding: 20px;
+	clear: both;
+	width: 98%;
+}
+
+.datos{
+	background:rgba(255,0,0,0.6);
+	padding: 20px;
+	float: left;
+	width: 500px;
+	height: 300px;
+}
+
+.des{
+	background:rgba(138,221,45,0.4);
+	clear: both;
+	width: 98%;
+	padding: 20px;
+	text-align: center;
+	font-size: 20px;
+}
